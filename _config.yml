@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "SYC/ Syc's home"
+title                    : "SYC/ 𝖘𝖞𝖘' 𝖍𝖔𝖒𝖊"
 title_separator          : "-"
 name                     : &name "syc"
 description              : &description "is sys"
