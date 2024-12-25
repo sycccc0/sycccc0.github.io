@@ -9,15 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+教育经历
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 * M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in GitHub, its house, 2012
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
+* Spring 2024: 度过3个月
   * Github University
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
@@ -34,12 +34,12 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 呼吸
+* 移动
+  * 爬
+  * 走
+  * 跳
+* chat
 
 Publications
 ======
