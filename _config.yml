@@ -21,7 +21,7 @@ repository               : "sycccc0/sycccc0.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/me.jpg"
+  avatar           : "me.jpg"
   name             : "sys"
   pronouns         : # example: "she/her"  
   bio              : "bio: sys"
