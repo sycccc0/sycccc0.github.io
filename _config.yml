@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "SYC/ 𝖘𝖞c' 𝖍𝖔𝖒𝖊"
+title                    : # "SYC/ 𝖘𝖞c' 𝖍𝖔𝖒𝖊"
 title_separator          : "-"
 name                     : &name "syc"
 description              : &description "is syc"
@@ -22,7 +22,7 @@ repository               : "sycccc0/sycccc0.github.io"
 author:
   # Biographic information
   avatar           : "me.jpg"
-  name             : "syc"
+  name             : # "syc"
   pronouns         : # example: "she/her"  
   bio              : 
   location         : 
